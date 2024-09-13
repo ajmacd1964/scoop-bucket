@@ -2,7 +2,7 @@
     "version": "2.4.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FrontasticGmbH/frontastic-cli/releases/download/2.4.2/frontastic-cli_2.4.2_windows_amd64.zip",
+            "url": "https://github.com/ajmacd1964/ctfrontend-cli/raw/main/frontastic-cli_2.4.2_windows_amd64.zip",
             "bin": [
                 "frontastic.exe"
             ],
